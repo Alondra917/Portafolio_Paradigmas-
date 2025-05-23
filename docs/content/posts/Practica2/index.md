@@ -227,8 +227,9 @@ python src/biblioteca_web.py
 * Ejecuta el archivo principal de la app web.
 * Nota: siempre se debe tener el entorno virtual activado antes de correr este tipo de archivos.
 
-Con esto creamos una pagina en la que se puede usar el programa desde una liga. 
 
+
+Con esto creamos una pagina en la que se puede usar el programa desde una liga. 
 
 ## Página web
 ![WEB](./imagenesP2/web1.png "WEB")
