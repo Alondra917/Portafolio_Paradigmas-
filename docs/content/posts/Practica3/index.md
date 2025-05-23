@@ -1,4 +1,4 @@
-+++ date = '2025-05-25T10:19:41-08:00' 
++++ date = '2025-05-24T10:19:41-08:00' 
 draft = false 
 title = 'Práctica #3 Elementos e Implementación del Paradigma Funcional' 
 +++
