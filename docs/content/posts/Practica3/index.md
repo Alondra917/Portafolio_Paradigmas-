@@ -1,7 +1,9 @@
-+++ date = '2025-05-24T10:19:41-08:00' 
++++ date = '2025-05-20T10:19:41-08:00' 
 draft = false 
 title = 'Práctica #3 Elementos e Implementación del Paradigma Funcional' 
 +++
+
+
 # *PARADIGMAS DE LA PROGRAMACIÓN*
 
 # Análisis de aplicacion en Haskell
