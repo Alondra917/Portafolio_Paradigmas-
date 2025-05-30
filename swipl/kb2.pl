@@ -1,8 +1,7 @@
-sing_a_song(ana).
-listens_to_music(rodrigo)-
+sing_a_song(ananya).
+listens_to_music(rohit).
 
-
-
-listens_to_music(ana):-sing_a_song(ana).
-happy(ana):-sing_a_song(ana).
-happy(rodrigo):-listens_to_music(rodrigo).
+listens_to_music(ananya) :- sing_a_song(ananya).
+happy(ananya) :- sing_a_song(ananya).
+happy(rohit) :- listens_to_music(rohit).
+playes_guitar(rohit) :- listens_to_music(rohit).

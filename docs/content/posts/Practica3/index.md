@@ -3,7 +3,6 @@ draft = false
 title = 'Práctica #3 Elementos e Implementación del Paradigma Funcional' 
 +++
 
-
 # *PARADIGMAS DE LA PROGRAMACIÓN*
 
 # Análisis de aplicacion en Haskell
